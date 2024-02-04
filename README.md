@@ -1,6 +1,3 @@
-
-![paisaje](https://github.com/OscarMes/OscarMes/assets/128978144/a6280f69-541e-45d7-80a1-1cb412feaf32)
-
 # 💫 Acerca de mí:
 Soy un apasionado programador comprometido con la excelencia y la responsabilidad en cada proyecto que emprendo. Mi enfoque se basa en la organización y la eficiencia para cumplir con éxito todas las tareas asignadas. Con una sólida formación en ingeniería de sistemas y experiencia en automatización de proyectos, estoy preparado para enfrentar desafíos técnicos y contribuir al éxito de cualquier equipo. <br>Mi amor por la programación y el aprendizaje constante me impulsa a seguir creciendo y mejorando mis habilidades en tecnologías como Python, Java, SQL, C# y SAP.<br>
 
