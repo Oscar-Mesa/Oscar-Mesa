@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Soy un apasionado programador comprometido con la excelencia y la responsabilidad en cada proyecto que emprendo. Mi enfoque se basa en la organización y la eficiencia para cumplir con éxito todas las tareas asignadas. Con una sólida formación en ingeniería de sistemas y experiencia en automatización de proyectos, estoy preparado para enfrentar desafíos técnicos y contribuir al éxito de cualquier equipo. <br>Mi amor por la programación y el aprendizaje constante me impulsa a seguir creciendo y mejorando mis habilidades en tecnologías como Python, VBA, Java, SQL, C# y SAP.<br>
+Soy un apasionado programador comprometido con la excelencia y la responsabilidad en cada proyecto que emprendo. Mi enfoque se basa en la organización y la eficiencia para cumplir con éxito todas las tareas asignadas. Con una sólida formación en ingeniería de sistemas y experiencia en automatización de proyectos, estoy preparado para enfrentar desafíos técnicos y contribuir al éxito de cualquier equipo. 
 
 
 ## 🌐 Redes sociales:
