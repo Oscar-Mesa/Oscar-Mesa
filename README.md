@@ -1,5 +1,8 @@
 # 💫 Acerca de mí:
 Soy un apasionado programador comprometido con la excelencia y la responsabilidad en cada proyecto que emprendo. Mi enfoque se basa en la organización y la eficiencia para cumplir con éxito todas las tareas asignadas. Con una sólida formación en ingeniería de sistemas y experiencia en automatización de proyectos, estoy preparado para enfrentar desafíos técnicos y contribuir al éxito de cualquier equipo. 
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/liUhPmZdArpYc/giphy.gif" alt="Spirited Away"">
+</div>
 
 
 ## 🌐 Redes sociales:
