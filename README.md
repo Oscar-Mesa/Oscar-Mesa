@@ -6,7 +6,7 @@ Soy un apasionado programador comprometido con la excelencia y la responsabilida
 
 
 ## 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/oscar-mesa-quevedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-mesa-quevedo)
 
 # 💻 Tecnologías:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
