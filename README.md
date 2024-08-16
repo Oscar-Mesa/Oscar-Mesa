@@ -23,8 +23,8 @@ Soy un apasionado programador comprometido con la excelencia y la responsabilida
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 📊 Estadísticas  de GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=oscarmes&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmes&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=oscar-mesa&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-mesa&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oscarmes&icon=3&color=12)](https://visitcount.itsvg.in)
